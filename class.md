@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Mouhamadou Moustapha Sissokho  
+- Certification: Meta Frontend Developer  
 
 ## Instructions
 Please replace the placeholders with your details:
